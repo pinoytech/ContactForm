@@ -1,4 +1,4 @@
-<div class="offset2 span8 margin-bottom">
+<div class="offset1 span10 margin-bottom">
     <div class="row">
         <div class="span8">
             <h2>I would like to hear from you!</h2>
