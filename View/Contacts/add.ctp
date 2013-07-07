@@ -1,6 +1,6 @@
 <div class="offset1 span10 margin-bottom">
-    <div class="row">
-        <div class="span8">
+    <div class="row-fluid">
+        <div class="span12">
             <h2>I would like to hear from you!</h2>
             <?php echo $this->Session->flash();?>
             <?php
